@@ -1,5 +1,6 @@
 defmodule SolidPriciple.SingleResponsibility.User do
   @moduledoc """
+    【单一职责】原则的定义：
     一个文件、模块、类、函数等，
     应该只有一个引起其变化的“因素”
   """

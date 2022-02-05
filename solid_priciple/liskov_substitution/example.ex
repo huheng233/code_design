@@ -5,8 +5,8 @@ defmodule SolidPriciple.LiskovSubstitution.Example do
   """
 
   @doc """
-    里氏替换原则的定义：
-    所有引用基类的地方必须能透明地使用其子类的对象
+    【里氏替换】原则的定义：
+     所有引用基类的地方必须能透明地使用其子类的对象
   """
 
   @doc """
